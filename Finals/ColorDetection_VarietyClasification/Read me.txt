@@ -1,0 +1,5 @@
+best.pt - YOLO model for crop bud
+
+FinalModel.ipynb - Final code for get output
+
+IMPORTANT - Image name must be: testImage.jpg
