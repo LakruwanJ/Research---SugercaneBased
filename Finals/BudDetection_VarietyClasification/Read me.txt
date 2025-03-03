@@ -1,0 +1,5 @@
+best.pt - YOLO model for crop bud
+sugarcane_rf_model.pkl - Variety classification model
+FinalModel.ipynb - Final code for get output
+
+IMPORTANT - Image name must be: testImage.jpg
